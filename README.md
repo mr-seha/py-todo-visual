@@ -2,9 +2,13 @@
 
 A simple and visual to-do list application built with Python and Tkinter. This app allows you to manage your tasks and visualize progress using charts.
 
-## Screenshot
+## Screenshot(v2.0)
 
-![Screenshot of program](screenshot_v1.0.png)
+![Screenshot of v2.0 program](screenshot_v2.0.jpg)
+
+## Screenshot(v1.0)
+
+![Screenshot of v1.0 program](screenshot_v1.0.jpg)
 
 ## Features
 
